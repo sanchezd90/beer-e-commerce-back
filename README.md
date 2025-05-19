@@ -38,8 +38,8 @@ The server will start running on the default port (3000). You can access the app
 - `routes/` - API route definitions
 - `views/` - Template files
 - `public/` - Static files
-- `stock-price.js` - Stock price related functionality
-- `products.js` - Products related functionality
+- `stock-price.js` - Stock price data
+- `products.js` - Products data
 
 ## Dependencies
 
